@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class GhactionExampleApplicationTests {
 
     @Test
-    void contextLoads() { //test
+    void contextLoads() { //test //test
     }
 
 }
